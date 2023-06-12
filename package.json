@@ -1,0 +1,20 @@
+{
+  "name": "styled-component",
+  "version": "1.0.0",
+  "description": "ReactJS styled-components is a library that allows you to write CSS code in your JavaScript files using a component-based approach. It provides a convenient way to create and manage styled-components, encapsulating both the styling and the logic within a single component, making it easier to develop and maintain styling in React applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedMughessib/Styled-Component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedMughessib/Styled-Component/issues"
+  },
+  "homepage": "https://github.com/AhmedMughessib/Styled-Component#readme"
+}
